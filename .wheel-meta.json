@@ -1,0 +1,22 @@
+{
+  "wheel_id": 636,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcairns-152",
+  "project": "bathroom-renovations-cairns-common-mistakes-791b8f7ebcda266053b",
+  "parent_t1_ref": "bathroomrenovationcairns-011",
+  "node_role": "buffer",
+  "money_target": "bathroomrenovationcairns.com.au",
+  "primary_kw": "bathroom renovations cairns common mistakes",
+  "intended_url": "https://sitesau.github.io/bathroomrenovationcairns-152/",
+  "tier": "T2",
+  "writeback_nonce": "4329126bf06592e1",
+  "links": [
+    {
+      "target_url": "https://bathroom-renovations-cairns-bathroomrenovationcairns-011-df6bb8.gitlab.io/",
+      "anchor": "Bathroom Renovations Cairns: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
